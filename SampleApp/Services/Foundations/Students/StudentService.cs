@@ -4,7 +4,7 @@ using SampleApp.Brokers.Loggings;
 using SampleApp.Brokers.Storages;
 using SampleApp.Models.Students;
 
-namespace SampleApp.Services.Foundations
+namespace SampleApp.Services.Foundations.Students
 {
     public partial class StudentService : IStudentService
     {

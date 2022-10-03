@@ -4,11 +4,11 @@ using Moq;
 using SampleApp.Brokers.Loggings;
 using SampleApp.Brokers.Storages;
 using SampleApp.Models.Students;
-using SampleApp.Services.Foundations;
+using SampleApp.Services.Foundations.Students;
 using Tynamix.ObjectFiller;
 using Xeptions;
 
-namespace SampleApp.Tests.Unit.Services.Students
+namespace SampleApp.Tests.Unit.Services.Foundations.Students
 {
     public partial class StudentServiceTests
     {
